@@ -1,1 +1,10 @@
 theme: jekyll-theme-cayman
+
+# Site settings
+title: Marsha's blog
+email: xue.marsha@gmail.com
+
+#write html inside the double quotes to display in jumbotron
+description: "<h1>Welcome to My Blog!</h1>"
+
+url: "http://marshax.github.io" # the base hostname & protocol for your site
