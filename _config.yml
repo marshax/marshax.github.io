@@ -1,10 +1,17 @@
-theme: jekyll-theme-cayman
+# Setup
+title:        Marsha's Blog
+tagline:      Welcome to Marsha's Blog
+baseurl:      ""
+paginate:     1
 
-# Site settings
-# title: Marsha's blog
-# email: xue.marsha@gmail.com
+# About/contact
+author:
+  name:       marsha.xue
+  url:        https://github.com/marshax
 
-#write html inside the double quotes to display in jumbotron
-# description: "<h1>Welcome to My Blog!</h1>"
+# Gems
+gems:
+  - jekyll-paginate
 
-# url: "http://marshax.github.io" # the base hostname & protocol for your site
+#Others
+markdown: kramdown
