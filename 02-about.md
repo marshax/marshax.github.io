@@ -1,7 +1,7 @@
 ---
 layout: page
 title: My Posts
-permalink: /posts/
+permalink: /aboutme/
 order: 1
 ---
 
