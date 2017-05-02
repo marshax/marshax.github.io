@@ -5,4 +5,7 @@ permalink: /blogs/
 order: 1
 ---
 
-Hi, this is the blog lists
+<div class="post-content-download">
+  <h1>Hi, this is the blog lists</h1>
+  In Developing ...
+</div>
