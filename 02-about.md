@@ -10,12 +10,13 @@ order: 1
 </div> -->
 <div class="intro">
   <br />
-  <p>
-    Get know me from <a href="https://www.linkedin.com/in/marsha-xue-08729188/"><i class="fa fa-linkedin"></i></a> My Linkedin <br>
-  </p>
+    <img src="/images/marsha.jpg" width="248"> Get know me from <a href="https://www.linkedin.com/in/marsha-xue-08729188/"><i class="fa fa-linkedin"></i></a> My Linkedin <br>
 </div>
-### 规模化敏捷(Scaled Agile Inc. – SAFe 4.0) 认证和授权的企业规模化敏捷转型咨询专家。 规模化敏捷高级Scrum Master以及产品经理培训认证教师。超过16年的跨国企业工作积累了流程再造和团队建设等方面丰富的实战经验。
-### I am an expert on Lean Agile transformation for global company with more than 16 years' engineering domain knowledge from technical to team management.
+
+#### 规模化敏捷(Scaled Agile Inc. – SAFe 4.0) 认证和授权的企业规模化敏捷转型咨询专家。 规模化敏捷高级Scrum Master以及产品经理培训认证教师。超过16年的跨国企业工作积累了流程再造和团队建设等方面丰富的实战经验。
+#### I am an expert on Lean Agile transformation for global company with more than 16 years' engineering domain knowledge from technical to team management.
+
+
 
 <i class="fa fa-heart"></i> I have more than 20 years’ IT organization experience starting from software engineer, then grew up as quality manager, business excellence leader, organization process improvement leader as Lean/Agile coach, Cross-country, multi-culture DevOps team manager, Senior engineering manager, site general manager, Engineering director… Went through many roles, I accumulated rich experience on leading and managing the cross functional, multi-culture team and build team to be a high performance team. My major expertise includes below items:
 - Rich experience on big project management and risk management
